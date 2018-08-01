@@ -1,3 +1,3 @@
 <?php
-echo 'gitclass';
+echo 'git class by our students';
 ?>
